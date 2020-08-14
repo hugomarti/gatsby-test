@@ -1,0 +1,11 @@
+.page {
+  background: lightcoral;
+}
+
+.page h1 {
+  color: lightgrey;
+}
+
+.text {
+  text-transform: uppercase;
+}

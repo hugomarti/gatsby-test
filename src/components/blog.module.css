@@ -1,0 +1,11 @@
+.page {
+  background: lightsteelblue;
+}
+
+.page h1 {
+  color: blue;
+}
+
+.text {
+  text-transform: lowercase;
+}
